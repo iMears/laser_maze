@@ -9,6 +9,10 @@ The second program runs a text file that also gets passed in from the command li
 Examples of how to run these programs are as follows:
 
 ```
-ruby random_maze.rb 30 20
-ruby file_maze.rb sample_maze.txt
+ruby random_maze.rb 30 20 # run program with nxn grid
+```
+
+
+```
+ruby file_maze.rb deliv.txt # run program with Deliv grid file
 ```
